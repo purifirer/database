@@ -45,14 +45,14 @@ public class MainActivity extends AppCompatActivity {
 //        pino.altura = 4;
 //        pino.fecha_plantado = "2019-01-01";
 //        pino.fecha_ultima_revision = "2019-02-01";
-//        pino.plantado_por = "Juan Martinez";
+//        pino.plantado_por = "Pedro Juarez";
 //        pino.save();
 //
 //        Arbolito cedro = new Arbolito();
 //        cedro.altura = 10;
 //        cedro.fecha_plantado = "2017-01-01";
 //        cedro.fecha_plantado = "2019-02-01";
-//        cedro.plantado_por = "Martin Perez";
+//        cedro.plantado_por = "Andres Messi";
 //        cedro.save();
 
         //borrarArbolito();
